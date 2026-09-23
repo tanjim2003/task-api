@@ -34,3 +34,7 @@ SELECT * FROM tasks WHERE done = 1;
 ```
 
 This returned only the tasks marked as completed — confirming that filtering happens directly in the database rather than in application code.
+
+## Database Screenshot
+
+![Database](db-screenshot.png)
